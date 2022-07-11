@@ -30,7 +30,8 @@ File: https://ctf.viewsource.me/uploads?key=2e4836cdb7d7e5f1387059e27b7e25f97627
 #  Interesting, so we have something bundled within the file. 
 #
 #  Opening the file we see a flag in the PDF: vsctf{whatistheflag} this is obviously not the correct one. 
-#  As the challenge mentioned, something seems a bit off with the text, as its not quite the same, this is especially noticable   #  when highlighting the text in the pdf, as it's marked one character at a time, not as a string. 
+#  As the challenge mentioned, something seems a bit off with the text, as its not quite the same, this is especially noticable   
+#  when highlighting the text in the pdf, as it's marked one character at a time, not as a string. 
 #############
 
 #############
